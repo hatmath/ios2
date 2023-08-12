@@ -1,0 +1,12 @@
+From: bounces+25030585-a349-mzpzdoaxhhvjwjxhhs=cwmxc.com@em9189.omdbapi.com
+
+Subject: API Key
+
+Here is your key: fd68ced5
+
+Please append it to all of your API requests,
+
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=fd68ced5
+
+Click the following URL to activate your key: http://www.omdbapi.com/apikey.aspx?VERIFYKEY=6fde2c6f-b6f1-4e30-b5b9-9b2b621aec6a
+If you did not make this request, please disregard this email.

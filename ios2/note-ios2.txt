@@ -1,0 +1,25 @@
+ios2
+	fin du cours:	13 sept
+
+	Labo1: 30% (jusqu'à dimanche 13)
+		MVC
+		URLSession
+		ViewStock
+	Labo2: 30% (présentation)
+		Naviguation / ibur controller / tab bar / userDefaults
+	Labo3: 30%
+		BD locale ou en ligne
+
+	Test unitaire dans XCode
+	SwiftUI
+
+	Quiz/exam (Questionnaire à choix multiple): 10% fin aout depuis sept
+
+-----------------------------------------------
+Pour avoir le Storyboard, il faut faire un projet IOS pas multiplaforme
+-----------------------------------------------
+Pour github ds XCODE faire un projet avec un git repo local et ensuite le push dans le github qu'on veux
+-----------------------------------------------
+splashtop ordi utilisé et configuré avec mon user:
+- MFL-C0240-25 (8 août)
+- MFL-C0240-07
